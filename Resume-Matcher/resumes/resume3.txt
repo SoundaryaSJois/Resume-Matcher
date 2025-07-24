@@ -1,0 +1,23 @@
+Name: Ananya Desai  
+Email: ananya.desai@email.com  
+Phone: +91-9876543211  
+
+Education:  
+- B.Com (Accounting & Finance), Jain University  
+- CGPA: 8.0  
+
+Skills:  
+- MS Excel, PowerPoint, Google Sheets  
+- Financial Modeling, Accounting  
+- Data Entry, Market Research  
+
+Projects:  
+- Expense Tracker in Excel  
+- Survey Analysis for NGO  
+
+Internships:  
+- Accounts Intern at XYZ Finance  
+- Research Analyst at EduSurvey  
+
+Achievements:  
+- Presented financial model at national finance summit  

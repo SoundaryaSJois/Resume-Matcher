@@ -1,0 +1,21 @@
+Position: Software Developer Intern
+
+We are looking for a passionate Software Developer Intern to join our engineering team. You will be responsible for building, testing, and deploying scalable applications. You should have a strong foundation in computer science fundamentals and proficiency in Java.
+
+Responsibilities:
+- Write clean, maintainable, and efficient Java code
+- Work with REST APIs and understand the basics of web applications
+- Collaborate with cross-functional teams in an Agile environment
+- Use Git for version control and participate in code reviews
+- Learn and apply DevOps practices (CI/CD, automation)
+
+Requirements:
+- Good understanding of OOP concepts
+- Experience or academic exposure to Java and basic data structures
+- Knowledge of databases and SQL
+- Familiarity with software development lifecycle
+- Eagerness to learn new technologies
+
+Preferred:
+- Exposure to Spring Boot
+- Knowledge of cloud platforms like AWS or Azure

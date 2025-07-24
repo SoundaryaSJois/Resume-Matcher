@@ -1,0 +1,24 @@
+Position: Java Backend Developer
+
+We are looking for a passionate Java Backend Developer to join our engineering team.
+
+Responsibilities:
+- Develop and maintain scalable backend systems using Java
+- Work with RESTful APIs, databases (MySQL/PostgreSQL), and version control (Git)
+- Implement security and data protection protocols
+- Collaborate with frontend developers and designers to integrate user-facing elements
+
+Required Skills:
+- Strong proficiency in Core Java, OOPs concepts, and data structures
+- Experience with Spring Boot or similar Java frameworks
+- Familiarity with REST APIs, JSON, and API documentation tools like Swagger
+- Basic understanding of Agile methodologies
+- Knowledge of CI/CD tools and build pipelines is a plus
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 0–2 years of backend development experience
+
+Location: Bangalore (Hybrid)
+
+Salary: ₹5–8 LPA based on experience and performance
