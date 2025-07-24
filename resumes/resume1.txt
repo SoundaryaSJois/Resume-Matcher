@@ -1,0 +1,31 @@
+Name: Priya Ramesh
+Email: priya.ramesh@email.com
+Phone: +91-9876543210
+
+Education:
+- B.Tech in Computer Science, Dayananda Sagar University (2022–2026)
+- CGPA: 9.00
+
+Skills:
+- Java, Python, SQL, HTML/CSS
+- Data Structures and Algorithms
+- OOP, DBMS, CN, OS
+- Git, GitHub, REST APIs, Agile methodology
+
+Projects:
+- Resume Matcher Java CLI App
+- Portfolio Website using HTML/CSS
+- Chatbot using Python and NLP
+
+Internships:
+- Web Development Intern at XYZ
+- Crowdfunding Intern at Muskurahat Foundation
+
+Achievements:
+- IEEE CIS Chapter Chair
+- Winner of 2 Ideathons
+- Designed and led 10+ student events
+
+Certifications:
+- Java Programming (Coursera)
+- Database Management (IIT Madras)

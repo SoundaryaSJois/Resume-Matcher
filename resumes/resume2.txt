@@ -1,0 +1,26 @@
+Name: Rahul Sharma  
+Email: rahul.sharma@email.com  
+Phone: +91-9898989898  
+
+Education:  
+- B.Sc in Information Technology, Christ University  
+- CGPA: 8.2  
+
+Skills:  
+- Python, JavaScript, ReactJS  
+- HTML, CSS, Bootstrap  
+- MySQL, MongoDB  
+- REST APIs
+
+Projects:  
+- E-commerce Website using MERN Stack  
+- Personal Blog Platform  
+- To-do List Web App  
+
+Internships:  
+- Web Developer Intern at ABC Tech  
+- Social Media Manager at NGO SparkHope  
+
+Achievements:  
+- Best Performer at Webathon 2024  
+- Participated in multiple design and coding contests  

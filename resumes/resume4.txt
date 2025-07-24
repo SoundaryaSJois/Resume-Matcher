@@ -1,0 +1,25 @@
+Name: Sneha Kulkarni  
+Email: sneha.kulkarni@email.com  
+Phone: +91-9832167890  
+
+Education:  
+- B.Tech in Computer Engineering, PES University  
+- CGPA: 8.9  
+
+Skills:  
+- Java, Kotlin, Android SDK  
+- Firebase, SQLite  
+- Git, Figma, Agile  
+
+Projects:  
+- Android App for College Events  
+- Quiz App using Java & Firebase  
+- UI/UX redesign of NGO website  
+
+Internships:  
+- Android Developer at TechStart  
+- UI Designer at DesignKart  
+
+Achievements:  
+- Google Developer Student Club Lead  
+- Hosted 5 workshops on Android Development  
