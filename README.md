@@ -32,25 +32,6 @@ resume2.txt : 45.0%
 resume4.txt : 32.0%
 
 
-## Folder Structure
-
-Resume-Matcher/
-├── ResumeMatcher.java
-├── README.md
-├── .gitignore
-├── jobs/
-│ ├── job1.txt
-│ └── job2.txt
-├── resumes/
-│ ├── resume1.txt
-│ ├── resume2.txt
-│ ├── resume3.txt
-│ └── resume4.txt
-└── Screenshots/
-├── op1.png
-└── op2.png
-
-
 ## Skills Used
 
 - Java (File I/O, Strings, HashMaps)
